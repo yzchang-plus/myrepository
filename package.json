@@ -1,5 +1,8 @@
 {
   "name": "my-project",
   "version": "1.0.0",
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "test": "echo 'No tests configured'"
+  }
 }
